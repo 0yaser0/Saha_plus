@@ -1,0 +1,219 @@
+[
+  {
+    "tip_id": 1,
+    "title": "Drink Water Regularly",
+    "description": "Staying hydrated is key for energy and overall health.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip1"
+  },
+  {
+    "tip_id": 2,
+    "title": "Morning Hydration Boost",
+    "description": "Start your day with a glass of water to kickstart your metabolism.",
+    "tip_type": "video",
+    "link": "https://example.com/hydration-tip2"
+  },
+  {
+    "tip_id": 3,
+    "title": "Evening Hydration",
+    "description": "Don't forget to hydrate before going to bed to aid recovery.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip3"
+  },
+  {
+    "tip_id": 4,
+    "title": "Infuse Your Water",
+    "description": "Add fruits like lemon or berries to give your water a refreshing taste.",
+    "tip_type": "video",
+    "link": "https://example.com/hydration-tip4"
+  },
+  {
+    "tip_id": 5,
+    "title": "Hydration and Exercise",
+    "description": "Drink water during workouts to maintain peak performance.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip5"
+  },
+  {
+    "tip_id": 6,
+    "title": "Healthy Hydration Habits",
+    "description": "Incorporate water breaks into your daily routine.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip6"
+  },
+  {
+    "tip_id": 7,
+    "title": "Benefits of Drinking Water",
+    "description": "Discover how water benefits your skin, digestion, and energy levels.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip7"
+  },
+  {
+    "tip_id": 8,
+    "title": "Hydration for Skin Health",
+    "description": "Water is essential for maintaining a clear and glowing complexion.",
+    "tip_type": "video",
+    "link": "https://example.com/hydration-tip8"
+  },
+  {
+    "tip_id": 9,
+    "title": "Hydration for Weight Loss",
+    "description": "Replacing sugary drinks with water can help manage weight.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip9"
+  },
+  {
+    "tip_id": 10,
+    "title": "DIY Electrolyte Drinks",
+    "description": "Learn how to make your own electrolyte-rich drinks at home.",
+    "tip_type": "video",
+    "link": "https://example.com/hydration-tip10"
+  },
+  {
+    "tip_id": 11,
+    "title": "Track Your Water Intake",
+    "description": "Use a tracking app or a marked water bottle to monitor your daily water consumption.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip11"
+  },
+  {
+    "tip_id": 12,
+    "title": "Hydration and Mental Clarity",
+    "description": "Adequate hydration improves focus and cognitive performance.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip12"
+  },
+  {
+    "tip_id": 13,
+    "title": "Avoid Sugary Drinks",
+    "description": "Replace sodas with water to improve your overall health.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip13"
+  },
+  {
+    "tip_id": 14,
+    "title": "Set Water Reminders",
+    "description": "Use alarms on your phone to remind you to drink water throughout the day.",
+    "tip_type": "video",
+    "link": "https://example.com/hydration-tip14"
+  },
+  {
+    "tip_id": 15,
+    "title": "Compare Beverages",
+    "description": "Understand the benefits of water compared to other beverages.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip15"
+  },
+  {
+    "tip_id": 16,
+    "title": "Stay Hydrated on the Go",
+    "description": "Plan ahead and carry a water bottle when traveling or at work.",
+    "tip_type": "video",
+    "link": "https://example.com/hydration-tip16"
+  },
+  {
+    "tip_id": 17,
+    "title": "Hydration for Athletes",
+    "description": "Follow specific hydration strategies to optimize athletic performance.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip17"
+  },
+  {
+    "tip_id": 18,
+    "title": "Know Your Water Needs",
+    "description": "Discover how much water you need based on your body and activity level.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip18"
+  },
+  {
+    "tip_id": 19,
+    "title": "Hydration in Hot Weather",
+    "description": "Increase your water intake during summer to stay cool.",
+    "tip_type": "video",
+    "link": "https://example.com/hydration-tip19"
+  },
+  {
+    "tip_id": 20,
+    "title": "Water for Better Digestion",
+    "description": "Drinking water aids digestion and helps in nutrient absorption.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip20"
+  },
+  {
+    "tip_id": 21,
+    "title": "Fun Ways to Stay Hydrated",
+    "description": "Experiment with water recipes and fun gadgets to make hydration enjoyable.",
+    "tip_type": "video",
+    "link": "https://example.com/hydration-tip21"
+  },
+  {
+    "tip_id": 22,
+    "title": "Hydration and Kidney Health",
+    "description": "Proper water intake supports kidney function and prevents stones.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip22"
+  },
+  {
+    "tip_id": 23,
+    "title": "Use a Marked Water Bottle",
+    "description": "Bottles with time markings help you monitor your water consumption.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip23"
+  },
+  {
+    "tip_id": 24,
+    "title": "Hydration Tips for Students",
+    "description": "Stay focused during study sessions by drinking water regularly.",
+    "tip_type": "video",
+    "link": "https://example.com/hydration-tip24"
+  },
+  {
+    "tip_id": 25,
+    "title": "Hydration at Work",
+    "description": "Keep a water bottle at your desk and take regular sips.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip25"
+  },
+  {
+    "tip_id": 26,
+    "title": "Herbal Teas for Hydration",
+    "description": "Enjoy herbal teas as a hydrating alternative to plain water.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip26"
+  },
+  {
+    "tip_id": 27,
+    "title": "Boost Your Energy with Water",
+    "description": "Drinking water can help maintain energy levels throughout the day.",
+    "tip_type": "video",
+    "link": "https://example.com/hydration-tip27"
+  },
+  {
+    "tip_id": 28,
+    "title": "Electrolytes and Hydration",
+    "description": "Learn the importance of electrolytes for proper hydration.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip28"
+  },
+  {
+    "tip_id": 29,
+    "title": "Seasonal Hydration Strategies",
+    "description": "Adjust your water intake to match the season's demands.",
+    "tip_type": "video",
+    "link": "https://example.com/hydration-tip29"
+  },
+  {
+    "tip_id": 30,
+    "title": "Water and Athletic Performance",
+    "description": "Stay at your best by optimizing hydration during sports.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip30"
+  },
+  {
+    "tip_id": 31,
+    "title": "Hydration for a Healthy Heart",
+    "description": "Keeping your heart healthy starts with staying well-hydrated.",
+    "tip_type": "article",
+    "link": "https://example.com/hydration-tip31"
+  }
+]

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">waterreminder</string>
+    <string name="default_web_client_id">TON_CLIENT_ID</string>
+
+    <string name="hydration_tips">Hydration Tips</string>
+    <string name="learn_more_hydration">Learn more about the importance of hydration</string>
+    <string name="share_tips">Share Tips</string>
+
+    <!-- Hydration Tips List -->
+    <string name="tip1">Drink Water Throughout the Day</string>
+    <string name="tip2">Start Your Day with Water</string>
+    <string name="tip3">Set Hydration Goals</string>
+    <string name="tip4">Drink Before Meals</string>
+    <string name="tip5">Choose Water Over Sugary Drinks</string>
+    <string name="tip6">Adjust Water Intake Based on Activity</string>
+    <string name="tip7">Eat Hydrating Foods</string>
+    <string name="tip8">Monitor Your Urine Color</string>
+    <string name="tip9">Avoid Drinking Too Much Water at Once</string>
+    <string name="tip10">Drink More in Hot Weather</string>
+
+
+</resources>
