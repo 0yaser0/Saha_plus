@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "672972645145",
-    "project_id": "waterreminder-9b128",
-    "storage_bucket": "waterreminder-9b128.firebasestorage.app"
+    "project_number": "817030575437",
+    "project_id": "saha-plus-plus",
+    "storage_bucket": "saha-plus-plus.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:672972645145:android:6d59475d19f4e331fedb88",
+        "mobilesdk_app_id": "1:817030575437:android:897a52ff4bb6f9f6a53304",
         "android_client_info": {
-          "package_name": "com.example.waterreminder"
+          "package_name": "com.example.saha_plus"
         }
       },
       "oauth_client": [
         {
-          "client_id": "672972645145-p1in27gl9ubimp9s7dfno0q2uamo8a1v.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.waterreminder",
-            "certificate_hash": "e8db84be1464f2873dadb0a65a327d2d1d4ff433"
-          }
-        },
-        {
-          "client_id": "672972645145-ajc8d9cfo8gjndfeen9fo7gt5hrkpgha.apps.googleusercontent.com",
+          "client_id": "817030575437-iuvrstnfrl3douescqdlej75543imp70.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBjf2tPCA5bSj-dYWl557mt9JpcvL-L7ac"
+          "current_key": "AIzaSyBu-2-qpatwHxJqCU23DZTWvYLSoctgZio"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "672972645145-ajc8d9cfo8gjndfeen9fo7gt5hrkpgha.apps.googleusercontent.com",
+              "client_id": "817030575437-iuvrstnfrl3douescqdlej75543imp70.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

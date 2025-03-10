@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.waterreminder">
+    package="com.example.saha_plus">
     <!-- Permissions nécessaires pour Firebase et Google Sign-In -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -15,16 +15,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Waterreminder"
+        android:theme="@style/Theme.Saha_Plus"
+
         tools:targetApi="31">
         <activity
-            android:name=".ui.activity.HomeActivity"
-            android:exported="false" />
-        <activity
-            android:name=".ui.activity.TipsActivity"
-            android:exported="false" /> <!-- Déclaration de l'activité principale -->
-        <activity
-            android:name=".data.remote.LoginActivity"
+            android:name="com.example.saha_plus.splash.Splash"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,21 +28,20 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".data.remote.CreateAccountActivity"
+            android:name="com.example.saha_plus.data.remote.LoginActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.activity.ProfileActivity"
+            android:name="com.example.saha_plus.data.remote.CreateAccountActivity"
             android:exported="false" />
         <activity
-            android:name=".TryActivity"
-            android:exported="true" />
+            android:name="com.example.saha_plus.ui.activity.ProfileActivity"
+            android:exported="false" />
         <activity
-            android:name=".ui.activity.SettingsActivity"
-            android:exported="true" />
+            android:name="com.example.saha_plus.ui.activity.HomeActivity"
+            android:exported="false" />
         <activity
-            android:name=".ui.activity.DashBoard"
-            android:exported="true" />
-
+            android:name="com.example.saha_plus.ui.activity.GetStarted"
+            android:exported="false" />
         <meta-data
             android:name="com.google.firebase.database.persistenceEnabled"
             android:value="true" />

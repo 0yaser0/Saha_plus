@@ -7,5 +7,5 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.Waterreminder" parent="Base.Theme.Waterreminder" />
+    <style name="Theme.Saha_Plus" parent="Base.Theme.Waterreminder" />
 </resources>

@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">waterreminder</string>
+    <string name="app_name">Saha++</string>
+    <string name="made_by">Made by \@yaser__yjjou</string>
+
     <string name="default_web_client_id">TON_CLIENT_ID</string>
 
     <string name="hydration_tips">Hydration Tips</string>
@@ -17,6 +19,16 @@
     <string name="tip8">Monitor Your Urine Color</string>
     <string name="tip9">Avoid Drinking Too Much Water at Once</string>
     <string name="tip10">Drink More in Hot Weather</string>
+
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">GetStarted</string>
+    <string name="title_get_started_1">Welcome to Saha+</string>
+    <string name="desc_get_started_1">The app that simplifies life for taxi drivers AnyTaxy allows you to track your real-time location on an interactive map powered by Google Maps. Move with ease and precision!</string>
+    <string name="desc_get_started_2">Keep track of your journeys with detailed information: distance traveled, duration, and the route taken. Stay organized and transparent with your work.</string>
+    <string name="title_get_started_2">Detailed Trip History</string>
+    <string name="title_get_started_3">Optimized Performance</string>
+    <string name="desc_get_started_3">With automatic updates every 5 seconds and an offline mode, AnyTaxy works flawlessly, even without an internet connection.</string>
 
 
 </resources>
